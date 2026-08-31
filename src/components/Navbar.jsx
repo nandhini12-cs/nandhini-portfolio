@@ -100,7 +100,7 @@ const Navbar = ({ darkMode, setDarkMode }) => {
           {/* GitHub */}
 
           <a
-            href="https://github.com/Nandhini1224"
+            href="https://github.com/nandhini12-cs"
             target="_blank"
             rel="noopener noreferrer"
           >
