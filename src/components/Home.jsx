@@ -415,7 +415,7 @@ I enjoy building responsive web applications and solving real-world problems usi
 
 <a
 
-href="/resume.pdf"
+href={`${process.env.PUBLIC_URL}/resume.pdf`}
 
 download
 
@@ -468,7 +468,7 @@ View Projects
 
 <img
 
-src="/images/profile.jpg"
+src={`${process.env.PUBLIC_URL}/images/profile.jpg`}
 
 alt="Nandhini"
 

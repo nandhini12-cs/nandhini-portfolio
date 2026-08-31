@@ -17,9 +17,9 @@ const Projects = ({ darkMode }) => {
         "CSS"
       ],
 
-      image: "/images/project1.jpg",
+      image: `${process.env.PUBLIC_URL}/images/project1.jpg`,
 
-      github: "https://github.com/Nandhini1224"
+      github: "https://github.com/nandhini12-cs"
     },
 
     {
@@ -35,9 +35,9 @@ const Projects = ({ darkMode }) => {
         "Deep Learning"
       ],
 
-      image: "/images/project2.jpg",
+      image: `${process.env.PUBLIC_URL}/images/project2.jpg`,
 
-      github: "https://github.com/Nandhini1224"
+      github: "https://github.com/nandhini12-cs"
     },
 
     {
@@ -52,9 +52,9 @@ const Projects = ({ darkMode }) => {
         "CSS"
       ],
 
-      image: "/images/project3.jpg",
+      image: `${process.env.PUBLIC_URL}/images/project3.jpg`,
 
-      github: "https://github.com/Nandhini1224"
+      github: "https://github.com/nandhini12-cs"
     }
 
   ];
