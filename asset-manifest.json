@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nandhini-portfolio/static/css/main.71ff7acd.css",
+    "main.js": "/nandhini-portfolio/static/js/main.2ce14318.js",
+    "index.html": "/nandhini-portfolio/index.html",
+    "main.71ff7acd.css.map": "/nandhini-portfolio/static/css/main.71ff7acd.css.map",
+    "main.2ce14318.js.map": "/nandhini-portfolio/static/js/main.2ce14318.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ff7acd.css",
+    "static/js/main.2ce14318.js"
+  ]
+}
